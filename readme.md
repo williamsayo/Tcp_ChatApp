@@ -10,7 +10,7 @@ A Tcp chat room application which broadcasts clients messages, and a file transf
 
 Install using `pip` ...
 
-    pip install tqdm(to install latest version of django)
+    pip install tqdm
 
 # Usage
 
